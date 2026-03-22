@@ -1,1 +1,1 @@
-# GenAI_Scratch
+# GenAI_Scratch by shrawan
